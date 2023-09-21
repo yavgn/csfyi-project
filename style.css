@@ -1,3 +1,35 @@
 body {
     background-color: rgb(23, 23, 23);
 }
+
+a {
+    text-decoration: none;
+    color: rgb(163, 163, 163);
+}
+
+a:visited{
+    color: rgb(163, 163, 163);
+}
+
+a:hover{
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: rgb(163, 163, 163);
+}
+
+.content-title{
+    color: white;
+}
+.content-date{
+    color: rgb(163, 163, 163);
+}
+
+.content-date:hover{
+    color: white;
+}
